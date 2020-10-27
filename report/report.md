@@ -5,7 +5,7 @@
 ### Holden Hunt<sup>1,*</sup>
 
 *<sup>1</sup>School of Informatics, Computing, and Engineering, Bloomington, IN 47408, U.S.A.*    
-*<sup>*</sup>Corresponing Authors: holdhunt@iu.edu*
+_<sup>*</sup>Corresponing Authors: holdhunt@iu.edu_
 
 *November 16, 2020*
 
