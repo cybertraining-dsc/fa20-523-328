@@ -9,7 +9,7 @@
 
 *November 16, 2020*
 
-####1. Introduction
+#### 1. Introduction
 
 For my final project, I will not be in a team with other students, due to the fact that I do not know anyone in the class. I plan to only write a research paper and forgo the software component since I do not know what software I could make for this and I do not have the technical knowledge to make one. The topic I am planning to use for this project is big data in baseball and how it affects the sport. The sport of baseball has been one of the leading sports in the world when it comes to statistics in the sports since each player has several different stats for hitting, fielding, and pitching along with many other stats that are not affiliated with the actual players. I want to look at the data that is used for these stats and see what all is being tracked, as well as seeing how it is affecting the way the game is played. The dataset I plan on using is the Lahman Sabermetrics dataset, which is a massive dataset that has records from 1871-2014 that is to study baseball through statistical methods. 
 
