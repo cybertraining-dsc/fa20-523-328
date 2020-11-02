@@ -5,7 +5,7 @@
 - [ ] background missing
 - [ ] dataset descriptionmissing
 
-Holden Hunt, holdhunt@iu.edu,_[fa20-523-312](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/master/project/project.md)
+Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/master/report/report.md)
 
 {{% pageinfo %}}
 
