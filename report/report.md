@@ -3,7 +3,7 @@
 - [ ] please use our format
 - [ ] refernces missing
 - [ ] background missing
-- [ ] dataset descriptionmissing
+- [ ] dataset description missing
 
 Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/master/report/report.md)
 
@@ -15,11 +15,19 @@ Missing
 
 Contents
 
-{{< table_of_contents >}}
+<ul>
+  <li>1. Introduction</li>
+  <li>2. Background</li>
+  <li>3. Datasets</li>
+  <li>4. Methodology</li>
+  <li>5. Inference</li>
+  <li>6. Conclusion</li>
+  <li>7. References</li>
+</ul
 
 {{% /pageinfo %}}
 
-**Keywords:** Missing 
+**Keywords:** sports, data analysis, baseball, performance 
 
 
 
