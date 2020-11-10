@@ -17,7 +17,7 @@ Contents
 
 <ul>
   <li>1. Introduction</li>
-  <li>2. Background</li>
+  <li>2. Plan</li>
   <li>3. Datasets</li>
   <li>4. Methodology</li>
   <li>5. Inference</li>
@@ -37,9 +37,11 @@ For my final project, I will not be in a team with other students, due to the fa
 
 There are several things I will need to make sure I do so that I can get a good grade for this project. One thing is that I need to figure out some more specific ideas I want to find in doing my research that I want to discuss in the project instead of doing something closer to an overview of what big data has done for baseball. Another is that I will need to find articles that will allow me to compare the way baseball was played back before big data and the way we play now. Another is that I need to find articles about how the raw data is used to create the statistics. Lastly, I will need to make sure and hit the 4000 word minimum on the project report and make everything in Github and use the kinds of files.
 
-## 2. Background
+## 2. Plan
+Talk about the history of big data and data analytics in baseball, what the data is tracking, what we can learn from the data, and how the data is used. 
 
 ## 3. Datasets
+Lahmen Sabermetrics dataset
 
 ## 4. Methodology
 
