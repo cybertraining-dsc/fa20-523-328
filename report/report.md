@@ -39,6 +39,7 @@ Big data is able to be used in baseball through the use of statistics, which has
 
 ## 5. Conclusion
 
+
 ## 6. References
 
 [^1]: Lahman, Sean. "Lahman's Baseball Database - Dataset by Bgadoci." Data.world, 5 Oct. 2016 <data.world/bgadoci/lahmans-baseball-database>.
