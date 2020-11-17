@@ -40,15 +40,20 @@ This kind of analysis can be used to gauge the potential performance of a free-a
 
 ## 5. Conclusion
 
+This report discusses the history of baseball and how big data analytics came to be prevalent in the sport, as well as how big data is used in baseball and what can be learned from the use of it so far. 
 
-## 6. References
+## 6. Acknowledgements
 
-[^1]: Lahman, Sean. "Lahman's Baseball Database - Dataset by Bgadoci." Data.world, 5 Oct. 2016 <data.world/bgadoci/lahmans-baseball-database>
+The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the FA20-BL-ENGR-E534-11530: Big Data Applications course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
-[^2]: Wikipedia. "History of Baseball." Wikipedia, Wikimedia Foundation, 27 Oct. 2020 <en.wikipedia.org/wiki/History_of_baseball>
+## 7. References
 
-[^3]: Wikipedia. "Moneyball." Wikipedia, Wikimedia Foundation, 28 Oct. 2020 <en.wikipedia.org/wiki/Moneyball>
+[^1]: Lahman, Sean. "Lahman's Baseball Database - Dataset by Bgadoci." Data.world, 5 Oct. 2016.  <data.world/bgadoci/lahmans-baseball-database>
 
-[^4]: Wharton University of Pennsylvania. "Analytics in Baseball: How More Data Is Changing the Game." Knowledge@Wharton, 21 Feb. 2019 <knowledge.wharton.upenn.edu/article/analytics-in-baseball/>
+[^2]: Wikipedia. "History of Baseball." Wikipedia, Wikimedia Foundation, 27 Oct. 2020.  <en.wikipedia.org/wiki/History_of_baseball>
 
-[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017 <rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>
+[^3]: Wikipedia. "Moneyball." Wikipedia, Wikimedia Foundation, 28 Oct. 2020.  <en.wikipedia.org/wiki/Moneyball>
+
+[^4]: Wharton University of Pennsylvania. "Analytics in Baseball: How More Data Is Changing the Game." Knowledge@Wharton, 21 Feb. 2019.  <knowledge.wharton.upenn.edu/article/analytics-in-baseball/>
+
+[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017.  <rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>
