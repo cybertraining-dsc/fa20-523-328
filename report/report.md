@@ -2,7 +2,7 @@
 
 - [ ] please use our format
 
-Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/master/report/report.md)
+Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/main/report/report.md)
 
 {{% pageinfo %}}
 
@@ -40,7 +40,7 @@ This kind of analysis can be used to gauge the potential performance of a free-a
 
 The data that is presented in the Lahman Sabermetrics database and other similar databases is able to allow analysts to compare data and statistics of one team with any/every other team with relative ease and in an easy to understand way. For example, the comparative analysis graph below shows that the payroll of teams and their winning percentage, analysts are able to learn that the New York Yankees have a much higher payroll than all other teams and they have a very good win rate, but there are other teams that do have very high payrolls and have the same good rate rate. Also, the graph shows that there are other teams that have higher payrolls than average, but have a very bad win rate compared to all other teams, including teams that have a much lower payroll [^5]. This kind of analysis shows us that spending lots of money does not guarantee a strong season, which can strengthen the idea of the "moneyball strategy" coined earlier where teams attempt to waste less money by spreading budgets across several players other than spending most of the budget on only one or two players.
 
-![Comparative Analysis of Payroll to Win Percentage Graph](https://github.com/cybertraining-dsc/fa20-523-328/raw/master/report/images/spending_graph.png)
+![Comparative Analysis of Payroll to Win Percentage Graph](https://github.com/cybertraining-dsc/fa20-523-328/raw/main/report/images/spending_graph.png)
 
 This is only one way that the Lahman Sabermetrics dataset can be used, but there are many more ways this data can be used to make league wide analyses and compare a certain team to others. This can be used by teams to possibly learn what they might be doing wrong if they feel as though they should be performing better.
 
