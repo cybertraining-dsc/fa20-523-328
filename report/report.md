@@ -1,5 +1,8 @@
 # How Big Data has Affected Statistics in Baseball
 
+- [ ] figure caption missing, 
+- [ ] figure citation by number in text missing
+
 Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/main/report/report.md)
 
 {{% pageinfo %}}
