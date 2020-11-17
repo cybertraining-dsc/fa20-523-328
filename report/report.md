@@ -2,6 +2,7 @@
 
 - [ ] figure caption missing, 
 - [ ] figure citation by number in text missing
+- [ ] please use italics for quotes without citation
 
 Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/main/report/report.md)
 
