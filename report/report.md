@@ -43,12 +43,12 @@ This kind of analysis can be used to gauge the potential performance of a free-a
 
 ## 6. References
 
-[^1]: Lahman, Sean. "Lahman's Baseball Database - Dataset by Bgadoci." Data.world, 5 Oct. 2016 <data.world/bgadoci/lahmans-baseball-database>.
+[^1]: Lahman, Sean. "Lahman's Baseball Database - Dataset by Bgadoci." Data.world, 5 Oct. 2016 <data.world/bgadoci/lahmans-baseball-database>
 
-[^2]: Wikipedia. "History of Baseball." Wikipedia, Wikimedia Foundation, 27 Oct. 2020 <en.wikipedia.org/wiki/History_of_baseball>.
+[^2]: Wikipedia. "History of Baseball." Wikipedia, Wikimedia Foundation, 27 Oct. 2020 <en.wikipedia.org/wiki/History_of_baseball>
 
-[^3]: Wikipedia. "Moneyball." Wikipedia, Wikimedia Foundation, 28 Oct. 2020 <en.wikipedia.org/wiki/Moneyball>.
+[^3]: Wikipedia. "Moneyball." Wikipedia, Wikimedia Foundation, 28 Oct. 2020 <en.wikipedia.org/wiki/Moneyball>
 
-[^4]: Wharton University of Pennsylvania. "Analytics in Baseball: How More Data Is Changing the Game." Knowledge@Wharton, 21 Feb. 2019 <knowledge.wharton.upenn.edu/article/analytics-in-baseball/>.
+[^4]: Wharton University of Pennsylvania. "Analytics in Baseball: How More Data Is Changing the Game." Knowledge@Wharton, 21 Feb. 2019 <knowledge.wharton.upenn.edu/article/analytics-in-baseball/>
 
-[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017 <rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>.
+[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017 <rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>
