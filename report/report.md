@@ -1,7 +1,5 @@
 # How Big Data has Affected Statistics in Baseball
 
-- [ ] please use our format
-
 Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/main/report/report.md)
 
 {{% pageinfo %}}
