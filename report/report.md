@@ -71,5 +71,4 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^4]: Wharton University of Pennsylvania. "Analytics in Baseball: How More Data Is Changing the Game." Knowledge@Wharton, 21 Feb. 2019.  <knowledge.wharton.upenn.edu/article/analytics-in-baseball/>
 
-[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017.  
-<rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>
+[^5]: Tibau, Marcelo. "Exploratory data analysis and baseball." Exploratory Data Analysis and Baseball, 3 Jan. 2017. <rstudio-pubs-static.s3.amazonaws.com/239462_de94dc54e71f45718aa3a03fc0bcd432.html>
