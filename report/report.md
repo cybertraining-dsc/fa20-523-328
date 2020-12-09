@@ -4,6 +4,7 @@
 - [ ] figure citation by number in text missing
 - [ ] please use italics for quotes without citation
 - [ ] does not follow template
+- [ ] please review rules for url links they start with http...
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-312/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-312/actions)
