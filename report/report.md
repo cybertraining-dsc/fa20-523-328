@@ -8,7 +8,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-312/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-312/actions)
-Status: in progress, Type: Project
+Status: in progress, Type: report
 
 Holden Hunt, holdhunt@iu.edu,_[fa20-523-328](https://github.com/cybertraining-dsc/fa20-523-328/), [Edit](https://github.com/cybertraining-dsc/fa20-523-328/blob/main/report/report.md)
 
