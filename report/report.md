@@ -1,4 +1,14 @@
-# How Big Data has Affected Statistics in Baseball
+---
+date: 2021-03-15
+title: How Big Data has Affected Statistics in Baseball
+linkTitle: Baseball
+tags: ["report", "ai", "sports"]
+description: How Big Data has Affected Statistics in Baseball
+author: Holden Hunt
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-328/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-328/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-328/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-328/actions)
