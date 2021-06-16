@@ -3,7 +3,7 @@ date: 2021-03-15
 title: How Big Data has Affected Statistics in Baseball
 linkTitle: Baseball
 tags: ["report", "ai", "sports"]
-description: How Big Data has Affected Statistics in Baseball
+description: "The purpose of this report is to highlight how the inception of big data in baseball has changed the way baseball is played and how it affects the choices managers make before, during, and after a game. It was found that big data analytics can allow baseball teams to make more sound and intelligent decisions when making calls during games and signing contracts with free agent and rookie players. The significance of this project and what was found was that teams that adopt the moneyball mentality would be able to perform at much higher levels than before with a much lower budget than other teams. The main conclusion from the report was that the use of data analytics in baseball is a fairly new idea, but if implemented on a larger scale than only a couple of teams, it could greatly change the way baseball is played from a managerial standpoint."
 author: Holden Hunt
 resources:
 - src: "**.{png,jpg}"
